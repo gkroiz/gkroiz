@@ -12,8 +12,8 @@ about_me = {
 ```
 <div align="center">
     <br>
-        <a href="mailto:gersonkroiz@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/gkroiz.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gkroiz.github.io/">
+        <a href="https://gkroiz.github.io">
+        <img align="center" src="https://img.shields.io/badge/gkroiz.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/gkroiz">
         <img align="center" src="https://img.shields.io/badge/-gkroiz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkroiz/">
