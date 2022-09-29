@@ -1,8 +1,6 @@
-<div id="header" align="center">
-    <br>
-    <h1> Welcome!</h1>
+<div align="center">
+    <h3> Welcome! </h3>
     <hr/>
-    <br>
 </div>
 
 ```python
@@ -28,7 +26,7 @@ about_me = {
 </div>
 <hr/>
 <div align="center">
-    <h3>Coding Stats</h3>
+    <h4>Coding Stats</h4>
     <br>
     <a href="https://github.com/gkroiz/github-readme-stats">
         <img style="width:45%" align="center" src="https://github-readme-stats-gkroiz.vercel.app/api?username=gkroiz&theme=dark&hide=contribs&show_icons=true&count_private=true&show_icons=true&border_radius=30px" />
