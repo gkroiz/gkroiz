@@ -1,8 +1,6 @@
 <div id="header" align="center">
-    <img style="border-radius: 30%;" src="https://i.pinimg.com/236x/4e/03/f4/4e03f4a286e086ef7c1371aaf41235f2--kirby-nintendo-baymax.jpg" width="100"/>
     <br>
-    <br>
-    <h3> Welcome!</h3>
+    <h1> Welcome!</h1>
     <hr/>
     <br>
 </div>
@@ -30,13 +28,12 @@ about_me = {
 </div>
 <hr/>
 <div align="center">
-    <br>
-    <h4>Coding Stats</h4>
+    <h3>Coding Stats</h3>
     <br>
     <a href="https://github.com/gkroiz/github-readme-stats">
-        <img align="center" src="https://github-readme-stats-gkroiz.vercel.app/api?username=gkroiz&theme=dark&hide=contribs&show_icons=true&count_private=true&show_icons=true&border_radius=30px" />
+        <img style="width:45%" align="center" src="https://github-readme-stats-gkroiz.vercel.app/api?username=gkroiz&theme=dark&hide=contribs&show_icons=true&count_private=true&show_icons=true&border_radius=30px" />
     </a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://github.com/gkroiz/github-readme-stats">
-        <img align="center" src="https://github-readme-stats-gkroiz.vercel.app/api/top-langs/?username=gkroiz&layout=compact&theme=dark&count_private=true&langs_count=11&exclude_repo=weatherbench-tutorial" />
+        <img style="width:35%" align="center" src="https://github-readme-stats-gkroiz.vercel.app/api/top-langs/?username=gkroiz&layout=compact&theme=dark&count_private=true&langs_count=6&exclude_repo=weatherbench-tutorial&border_radius=30px" />
     </a>
 </div>
