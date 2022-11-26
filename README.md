@@ -7,7 +7,7 @@
 about_me = {
   "Occupation" : "ML/AI Software Engineer at Google",
   "Coding Languages" : "Python, C++, C, SQL, MATLAB, LaTeX, HTML, CSS, JS, Bash, Slurm"
-  "Interests" : "traveling, soccer, playing piano, biking, skiing, bouldering, and taking pictures"
+  "Interests" : "traveling, soccer, bouldering, hiking, biking, skiing, and taking pictures"
 }
 ```
 <div align="center">
