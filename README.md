@@ -29,7 +29,7 @@ about_me = {
     <h4>Coding Stats</h4>
     <br>
     <a href="https://github.com/gkroiz/github-readme-stats">
-        <img style="width:45%" align="center" src="https://github-readme-stats-gkroiz.vercel.app/api?username=gkroiz&theme=dark&hide=contribs&show_icons=true&count_private=true&show_icons=true&border_radius=30px" />
+        <img style="width:45%" align="center" src="https://github-readme-stats-gkroiz.vercel.app/api?username=gkroiz&theme=dark&show_icons=true&count_private=true&show_icons=true&border_radius=30px" />
     </a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://github.com/gkroiz/github-readme-stats">
         <img style="width:35%" align="center" src="https://github-readme-stats-git-org-stats-gkroiz.vercel.app/api/top-langs/?username=gkroiz&role=OWNER,COLLABORATOR&layout=compact&theme=dark&count_private=true&langs_count=6&hide=Jupyter%20Notebook&exclude_repo=weatherbench-tutorial,project3-gkroiz1,project1-gkroiz&border_radius=30px" />
